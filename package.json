@@ -1,0 +1,25 @@
+{
+  "name": "trivikram",
+  "version": "1.0.0",
+  "description": "A personal card for Trivikram Kamat (@trivikram)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trivikr/trivikram.git"
+  },
+  "keywords": [
+    "Trivikram",
+    "Kamat",
+    "npm",
+    "card"
+  ],
+  "author": "Kamat, Trivikram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trivikr/trivikram/issues"
+  },
+  "homepage": "https://github.com/trivikr/trivikram#readme"
+}
