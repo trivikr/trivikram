@@ -4,7 +4,7 @@
   "description": "A personal card for Trivikram Kamat (@trivikram)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "trivikram": "./bin/card.js"
   },
   "scripts": {
     "prepublish": "npm run build",
