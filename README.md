@@ -1,9 +1,13 @@
-It's me, Tierney!
+It's me, Trivikram!
 
 # Usage
-Assuming you have the GitHub registry set up, you can use via npx:
+
+Via npx:
+
 ```
-npx @bnb/card
+npx trivikram
 ```
 
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
+# Credit
+
+Borrowed and Forked this idea from [Tierney](https://github.com/bnb/bitandbang) 😄
