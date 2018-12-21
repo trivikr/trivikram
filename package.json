@@ -1,16 +1,11 @@
 {
-  "name": "@bnb/card",
-  "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "trivikram",
+  "version": "1.0.0",
+  "description": "A personal card for Trivikram Kamat (@trivikram)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
-  },
-  "homepage": "https://bnb.im",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -18,15 +13,17 @@
     "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trivikr/trivikram.git"
+  },
   "keywords": [
-    "card",
+    "Trivikram",
+    "Kamat",
     "npm",
-    "npm card",
-    "npx",
-    "npx card",
-    "business card"
+    "card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Kamat, Trivikram",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -37,11 +34,9 @@
     "chalk": "^2.4.1",
     "standard": "^12.0.1"
   },
-  "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
-  },
   "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  }
+  "bugs": {
+    "url": "https://github.com/trivikr/trivikram/issues"
+  },
+  "homepage": "https://trivikr.github.io"
 }
